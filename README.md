@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## description
+Health checkup app that enables users to purchase health tests with a streamlined feature set.
+The key features include viewing available tests, adding tests to a cart, reviewing the cart, and placing orders.
+
+[health_chechup_app.pdf](https://github.com/Mukulprajapati18/Health-checkup-app-flutter/files/14121334/health_chechup_app.pdf)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
